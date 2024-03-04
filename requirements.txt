@@ -1,0 +1,3 @@
+mysql-connector-python==8.1.0
+Pillow==8.4.0
+transformers==4.32.0

@@ -4,8 +4,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Application pour la reconnaissance des yeux d'employés pour contrôle de sécurité.
 
 Démo factice avec jeu de données MMU IRIS Database
